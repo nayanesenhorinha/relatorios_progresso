@@ -50,13 +50,13 @@ Os principais resultados da análise foram:
 
 ### Utilizando no Google Colab
 1. Abra o Google Colab: [Google Colab](https://colab.research.google.com/)
-2. Faça o upload do arquivo `relatorio_progresso_diario.ipynb` para o Colab.
+2. Faça o upload do arquivo `relatorio_progresso_diario.ipynb` para o Colab ou acesse no link [https://colab.research.google.com/drive/1Jgf3q-QlDaqzwsbVHP1xGTIGmq8_XdTq?usp=sharing](https://colab.research.google.com/drive/1Jgf3q-QlDaqzwsbVHP1xGTIGmq8_XdTq?usp=sharing).
 3. Execute todas as células do notebook para gerar a análise e os gráficos.
 
 ### Executando Localmente
 1. Clone este repositório:
     ```sh
-    git clone https://github.com/seu-usuario/nome-do-repositorio.git
+    git clone https://github.com/nayanesenhorinha/relatorios_progresso.git
     ```
 2. Navegue até o diretório do projeto:
     ```sh
@@ -72,15 +72,5 @@ Os principais resultados da análise foram:
     ```
 5. Abra o arquivo `relatorio_progresso_diario.ipynb` e execute todas as células para gerar a análise e os gráficos.
 
-## Contribuição
-Contribuições são bem-vindas! Sinta-se à vontade para abrir issues para relatar bugs ou sugerir melhorias. Pull requests também são encorajados.
-
-## Licença
-Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
 ## Contato
-Para mais informações, entre em contato através do e-mail: [seu-email@exemplo.com](mailto:seu-email@exemplo.com).
-
----
-
-**Observação:** Certifique-se de ajustar os links e informações conforme necessário antes de publicar no GitHub.
+Para mais informações, entre em contato através do e-mail: [nayanesenhorinha@gmail.com](mailto:nayanesenhorinha@gmail.com).
