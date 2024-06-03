@@ -5,6 +5,7 @@ Este repositório contém o código e o relatório de análise de dados de um pr
 
 ## Estrutura do Repositório
 - `relatorio_progresso_diario.ipynb`: Notebook contendo todo o código e análise em Python.
+- `dados.csv`: Arquivo csv com dados utilizados na análise.
 - `README.md`: Este arquivo de documentação com instruções e descrições do projeto.
 
 ## Dados
