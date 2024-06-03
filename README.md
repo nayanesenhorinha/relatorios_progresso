@@ -1,4 +1,4 @@
-# Relatório de Progresso Diário do Projeto de Desenvolvimento de Software
+# Relatório de Progresso Diário
 
 ## Introdução
 Este repositório contém o código e o relatório de análise de dados de um projeto de desenvolvimento de software ao longo de uma semana. O objetivo é demonstrar a importância da análise dos dados para obter insights sobre o progresso do projeto, identificar possíveis áreas de melhoria e tomar decisões informadas para garantir o sucesso do projeto.
