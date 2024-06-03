@@ -42,7 +42,8 @@ Foram gerados gráficos para melhor compreensão dos dados:
 ### Utilizando no Google Colab
 1. Abra o Google Colab: [Google Colab](https://colab.research.google.com/)
 2. Faça o upload do arquivo `relatorio_progresso_diario.ipynb` para o Colab ou acesse no link [https://colab.research.google.com/drive/1Jgf3q-QlDaqzwsbVHP1xGTIGmq8_XdTq?usp=sharing](https://colab.research.google.com/drive/1Jgf3q-QlDaqzwsbVHP1xGTIGmq8_XdTq?usp=sharing).
-3. Execute todas as células do notebook para gerar a análise e os gráficos.
+3. Faça o upload do arquivo `dados.csv` na aba de arquivos do notebook.
+4. Execute todas as células do notebook para gerar a análise e os gráficos.
 
 ### Executando Localmente
 1. Clone este repositório:
