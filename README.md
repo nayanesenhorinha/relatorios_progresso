@@ -28,15 +28,6 @@ Foram gerados gráficos para melhor compreensão dos dados:
 - Gráfico de barras das tarefas concluídas por dia.
 - Gráfico de linhas da produtividade diária.
 
-## Resultados e Insights
-Os principais resultados da análise foram:
-- Total de horas trabalhadas na semana: **43 horas**.
-- Média diária de horas trabalhadas: **6.14 horas**.
-- Total de bugs corrigidos na semana: **16 bugs**.
-- Média diária de bugs corrigidos: **2.29 bugs**.
-- Total de tarefas concluídas na semana: **29 tarefas**.
-- Média diária de tarefas concluídas: **4.14 tarefas**.
-
 ### Recomendações
 - Manter um registro constante e detalhado das horas trabalhadas, bugs corrigidos e tarefas concluídas.
 - Analisar regularmente os dados para identificar tendências e áreas de melhoria.
