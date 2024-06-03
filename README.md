@@ -64,6 +64,3 @@ Foram gerados gráficos para melhor compreensão dos dados:
     jupyter notebook
     ```
 5. Abra o arquivo `relatorio_progresso_diario.ipynb` e execute todas as células para gerar a análise e os gráficos.
-
-## Contato
-Para mais informações, entre em contato através do e-mail: [nayanesenhorinha@gmail.com](mailto:nayanesenhorinha@gmail.com).
